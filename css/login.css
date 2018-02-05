@@ -1,0 +1,58 @@
+body{
+	background-image: url(../img/login.jpg);
+}
+.div1{
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	margin-left: 50%;
+    margin-top: 10%;
+}
+
+.plogin{
+	font-size: 40px;
+	color: azure;
+}
+
+.div2{
+	width: 300px;
+    height: 90px;
+}
+
+input{
+	width: 270px;
+	height: 20px;
+	margin-bottom: 20px;
+	padding: 10px;
+	background: none transparent scroll repeat 0% 0%;
+	border:1px solid #ffffff;
+	font-size: 20px;
+	color: #F0FFFF;
+}
+input::-webkit-input-placeholder{
+	color: #FFFFFF;
+}
+.btn{
+	width: 300px;
+    height: 44px;
+    background-color: mistyrose ;
+    font-size: 20px;
+}
+
+a{
+	margin-left: -30px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+#rememberMe{
+	width: 30px;
+	margin-left: 90px;
+	margin-top: 20px;
+	vertical-align: middle;
+}
+
+.rem{
+	color: #FFFFFF;
+}
